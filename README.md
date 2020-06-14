@@ -8,7 +8,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/D3VSJ">
-        <img src="https://img.shields.io/badge/Use Boilerplate-2.0-blue.svg"
+        <img src="https://img.shields.io/badge/Use-Boilerplate-blue.svg"
             alt="Download latest release" height="35px">
     </a>
 </p>

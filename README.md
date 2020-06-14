@@ -1,9 +1,7 @@
 <h1 align="center">
   <a href=""><img src="https://i.imgur.com/4eE4Lvz.png" alt="" width="1000px"></a>
+  <h2 align="center">A smooth, Minimal Electron Template with a clean design.</h2>
 </h1>
-<div style="color:black;font-size: 80px;">
-<h2 align="center">A smooth, Minimal Electron Template with a clean design.</h2>
-</div>
 <div style="color:black;font-size: 80px;">
 <h2 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra vel turpis nunc eget lorem dolor. At lectus urna duis convallis convallis tellus id interdum velit.</h2> 
 </div>

@@ -3,17 +3,13 @@
 <h2 align="center">A smooth, Minimal Electron Template with a clean design.
 </h1>
 <div style="color:black;font-size: 80px;">
-<h2 align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra vel turpis nunc eget lorem dolor. At lectus urna duis convallis convallis tellus id interdum velit.</h2> 
+<h2 align="center">Build a Minimal, Clean Electron App within Seconds with this Boilerplate!</h2> 
 </div>
 <br>
 <p align="center">
     <a href="https://github.com/D3VSJ">
-        <img src="https://img.shields.io/badge/Download latest Release-2.0-blue.svg"
+        <img src="https://img.shields.io/badge/Use Boilerplate-2.0-blue.svg"
             alt="Download latest release" height="40px">
-    </a>
-     <a href="https://github.com/D3VSJ">
-     <img src="https://img.shields.io/badge/View Guide-blue.svg"
-         alt="Download latest release" height="40px">
     </a>
 </p>
 

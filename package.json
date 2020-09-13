@@ -1,7 +1,7 @@
 {
   "name": "electron-custom-app-template",
   "version": "1.0.0",
-  "author": "Author",
+  "author": "Sanjay Sunil",
   "description": "My Electron application description",
   "main": "src/main.js",
   "scripts": {

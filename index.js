@@ -15,17 +15,6 @@ contextMenu();
 // Note: Must match `build.appId` in package.json
 app.setAppUserModelId('com.company.AppName');
 
-// Uncomment this before publishing your first version.
-// It's commented out as it throws an error if there are no published versions.
-// if (!is.development) {
-// 	const FOUR_HOURS = 1000 * 60 * 60 * 4;
-// 	setInterval(() => {
-// 		autoUpdater.checkForUpdates();
-// 	}, FOUR_HOURS);
-//
-// 	autoUpdater.checkForUpdates();
-// }
-
 // Prevent window from being garbage collected
 let mainWindow;
 

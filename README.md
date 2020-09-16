@@ -5,7 +5,7 @@
 <br>
 <p align="center">
     <a href="https://github.com/D3VSJ/Minimal-Electron-Template/generate">
-        <img src="https://img.shields.io/badge/Use-Boilerplate-blue.svg"
+        <img src="https://img.shields.io/badge/Use-Boilerplate-grey.svg"
             alt="Download latest release" height="35px">
     </a>
 </p>

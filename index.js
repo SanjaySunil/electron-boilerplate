@@ -33,6 +33,7 @@ const createMainWindow = async () => {
 	const win = new BrowserWindow({
 		title: app.name,
 		show: false,
+		icon: __dirname + './build/icon.png',
 		width: 600,
 		height: 400
 	});

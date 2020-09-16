@@ -1,5 +1,5 @@
 <div align="center">
-  <a href=""><img src="https://i.imgur.com/4eE4Lvz.png" alt="" width="1000px"></a>
+  <a href=""><img src="https://i.imgur.com/4pfDxSh.png" alt="" width="256px"></a>
 <h2 align="center">A powerful boilerplate to kickstart your next Electron Project!
 </div>
 <br>

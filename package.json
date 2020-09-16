@@ -1,23 +1,22 @@
 {
-	"name": "electron-boilerplate",
-  "productName": "Electron Boilerplate",
-  "version": "1.0.0",
-  "description": "The best electron boilerplate to get you started.",
-  "license": "MIT",
-  "repository": "D3VSJ/Electron-Boilerplate",
-	"author": {
-		"name": "Sanjay Sunil",
-		"email": "D3VSJ@protonmail.com",
-		"url": "https://sanjaysunil.me"
-	},
-  "main": "main.js",
-  "scripts": {
-    "start": "electron .",
-    "dist": "electron-builder --win"
-  },
-  
-  "devDependencies": {
-    "electron": "^10.1.2",
-    "electron-builder": "^22.8.0"
-  }
+ "name": "electron-boilerplate",
+ "productName": "Electron Boilerplate",
+ "version": "1.0.0",
+ "description": "The best electron boilerplate to get you started.",
+ "license": "MIT",
+ "repository": "D3VSJ/Electron-Boilerplate",
+ "author": {
+  "name": "Sanjay Sunil",
+  "email": "D3VSJ@protonmail.com",
+  "url": "https://sanjaysunil.me"
+ },
+ "main": "main.js",
+ "scripts": {
+  "start": "electron .",
+  "dist": "electron-builder --win"
+ },
+ "devDependencies": {
+  "electron": "^10.1.2",
+  "electron-builder": "^22.8.0"
+ }
 }

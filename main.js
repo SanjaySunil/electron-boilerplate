@@ -7,6 +7,7 @@ function createWindow () {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
+    // opacity: 0.7,  Add Opacity to app.
     icon: __dirname + './build/icon.png'
   })
 

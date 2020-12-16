@@ -4,7 +4,7 @@
 </div>
 <br>
 <p align="center">
-    <a href="https://github.com/D3VSJ/Minimal-Electron-Template/generate">
+    <a href="https://github.com/D3VSJ/Electron-Boilerplate/generate">
         <img src="https://img.shields.io/badge/Use-Boilerplate-grey.svg"
             alt="Download latest release" height="35px">
     </a>
@@ -16,6 +16,6 @@
 
 Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
 Email : [D3VSJ@protonmail.com](mailto:D3VSJprotonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#9496](https://discordapp.com/users/732336924559278181)
+Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
 
 </div>

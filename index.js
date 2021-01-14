@@ -1,5 +1,3 @@
-// Modules to control application and create browser window.
-
 const { app, BrowserWindow } = require("electron");
 const path = require("path");
 
@@ -34,7 +32,7 @@ const createMainWindow = async () => {
 
 	// Optional:
 
-	   win.removeMenu(); 				// Remove menu.
+	win.removeMenu(); // Remove menu.
 	// win.webContents.openDevTools(); 	// Open DevTools.
 
 	await win.loadFile(path.join(__dirname, "app/index.html"));

@@ -4,10 +4,10 @@
 	"version": "1.0.0",
 	"description": "The best electron boilerplate to get you started.",
 	"license": "MIT",
-	"repository": "D3VSJ/Electron-Boilerplate",
+	"repository": "sanjaysunil/Electron-Boilerplate",
 	"author": {
 		"name": "Sanjay Sunil",
-		"email": "D3VSJ@protonmail.com",
+		"email": "sanjaysunil@protonmail.com",
 		"url": "https://sanjaysunil.me"
 	},
 	"scripts": {

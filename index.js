@@ -4,6 +4,11 @@ const path = require("path");
 // Note: Must match `build.appId` in package.json.
 app.setAppUserModelId("com.company.AppName");
 
+// Electron Reloader
+try {
+	require("electron-reloader")(module);
+} catch {}
+
 let mainWindow;
 // Create Window.
 const createMainWindow = async () => {

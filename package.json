@@ -17,6 +17,9 @@
 		"dist": "electron-builder --macos --linux --windows",
 		"win": "electron-builder --windows"
 	},
+	"dependencies": {
+		"electron-reloader": "^1.2.0"
+	},
 	"devDependencies": {
 		"electron": "^7.1.1",
 		"electron-builder": "^21.2.0"

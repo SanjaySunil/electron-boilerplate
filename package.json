@@ -22,7 +22,9 @@
 	},
 	"devDependencies": {
 		"electron": "^7.1.1",
-		"electron-builder": "^21.2.0"
+		"electron-builder": "^21.2.0",
+		"eslint": "^7.19.0",
+		"eslint-config-google": "^0.14.0"
 	},
 	"build": {
 		"appId": "com.company.AppName",

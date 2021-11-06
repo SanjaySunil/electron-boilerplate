@@ -9,13 +9,3 @@
             alt="Download latest release" height="35px">
     </a>
 </p>
-
----
-
-<div align="center">
-
-Website : [sanjaysunil.me](https://sanjaysunil.me) &nbsp;&middot;&nbsp;
-Email : [sanjaysunil@protonmail.com](mailto:sanjaysunil@protonmail.com) &nbsp;&middot;&nbsp;
-Discord : [D3VSJ#3158](https://discordapp.com/users/732336924559278181)
-
-</div>
